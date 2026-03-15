@@ -2,8 +2,6 @@
 
 > A Hidden Markov Model that identifies latent Bull, Bear, and Sideways market regimes from SPY (S&P 500 ETF) price data — using a constrained Viterbi decoder that encodes real-world market structure to build a regime-driven trading strategy that nearly triples the Sharpe ratio of buy-and-hold.
 
-*University of Maryland — Dhanush Sambasivam & Madhumitha Rajagopal*
-
 ---
 
 ## Overview
